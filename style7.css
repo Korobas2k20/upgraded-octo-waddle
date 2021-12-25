@@ -18,7 +18,7 @@ body{
 	top:50%;
 	height: 50%;
 	width: 100%;
-	background:linear-gradient(#D6B99F 50%,#CA9F7D 50%);
+	background: red;
 }
 
 .screen{
